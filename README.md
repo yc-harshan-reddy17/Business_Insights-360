@@ -76,7 +76,7 @@ The dashboard is made up of six pages-->
 
 ### Executive Page: Provides the top executives a summary of the organization's performance. Contains the following: Sub-region performance, Top 5 Customers and Products, Net Sales, Gross Margin%, Net Profit%, and Revenue Contribution by Channel.
 
-![executive page]
+![executive page](https://github.com/yc-harshan-reddy17/Business_Insights-360/blob/main/Executive%20view.png)
 
 ## Skills Learned:
 
