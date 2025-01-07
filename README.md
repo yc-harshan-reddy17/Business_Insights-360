@@ -11,7 +11,7 @@ The business has chosen to use Power BI for analytics in order to outperform riv
 
 I followed the Codebasics PowerBi Course while working on this project
 
-Here is my report link - 
+Here is my report link - (https://app.powerbi.com/view?r=eyJrIjoiMmEyMjcyYmUtNmViMi00NDlhLTlmNzQtODNjMjgzYTIxZDZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=19d9377c199ca334a5e1)
 
 ## Datasets:
 
@@ -48,7 +48,7 @@ As you can see, data modeling is crucial since it establishes the framework for 
 
  I used the Snowflake schema data modeling approach for this project. 
 
-![data model]
+![data model](https://github.com/yc-harshan-reddy17/Business_Insights-360/blob/main/Data%20model%20view.png)
 
 ## Power BI Dashboard Overview:
 
