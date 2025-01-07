@@ -56,7 +56,7 @@ The dashboard is made up of six pages-->
 
 ### Home Page: A landing page with buttons to navigate to different pages.
 
-![home page]
+![home page](https://github.com/yc-harshan-reddy17/Business_Insights-360/blob/main/Home%20view.png)
 
 ### Finance Page: Focuses on improving financial planning, budgeting processes, and cost control. Includes Profit and Loss statements, Top and Bottom Products and Customers by Net Sales, and more.
 
