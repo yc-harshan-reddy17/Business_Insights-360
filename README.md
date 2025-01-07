@@ -46,7 +46,7 @@ Four steps of work will be identified if you break down the entire data analyst'
 
 As you can see, data modeling is crucial since it establishes the framework for reporting, therefore you cannot skip the third step if you wish to get to the final step (the analysis section). The data model serves as the foundation for all visualizations, and improper modeling can impact report performance.
 
-We used the Snowflake schema data modeling approach for this project. 
+ I used the Snowflake schema data modeling approach for this project. 
 
 ![data model]
 
